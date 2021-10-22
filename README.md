@@ -1,5 +1,6 @@
-# AiArtathon
-Spiral garden
+# Spiral garden
+
+
 Our group consist of three member, Hajer Alibrahim, is a collaborative sculpture artist who loves to play with kids and make
 informational interpretations to help kids and families enjoy their time, one of our members, Falih Aldosary,
 is a 3D and VFX artist who designs motion graphics and 3D molding, and another member, Munzir alradi, is
